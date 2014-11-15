@@ -14,19 +14,14 @@ If you haven't already, make sure you've installed the following on your machine
 
 1. [Sublime Text 3][st3], a powerful, lightweight text editor
 2. [Google Chrome][chrome], the browser you'll use for development
-3. If you're on a Mac, Xcode Command Line Tools: 
-    * [for Mavericks][mavericks] 
-    * [for Mountain Lion][mtnlion]
-    * other versions of OS X: download from [Apple][others] (free sign-up required)
+3. If you're on a Mac, [download the Xcode Command Line Tools from Apple][xcode].
 4. [Git][git], a version-control system 
 5. [SourceTree][sourcetree], an optional GUI for Git
 6. Sign up for a [GitHub account][github]
  
 [st3]: http://www.sublimetext.com/3
 [chrome]: http://www.google.com/chrome/browser
-[mavericks]: https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mavericks_april_2014.dmg
-[mtnlion]: https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mountain_lion_april_2014.dmg
-[others]: http://developer.apple.com
+[xcode]: http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/
 [git]: http://git-scm.com/downloads
 [sourcetree]: http://www.sourcetreeapp.com/download
 [github]: http://github.com
